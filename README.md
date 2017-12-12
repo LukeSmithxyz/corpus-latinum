@@ -12,6 +12,10 @@ The tagger. Feed it a text via command-line argument (or many) and will produce 
 + [Whitacker's Words](https://github.com/mk270/whitakers-words) 
 + `bash`
 
+### Known bugs
+
++ Can't handle text with semicolons. Or brackets []. Will fix soon.
+
 ## Next on the list:
 
 + system for generating the tagged corpus
